@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">74</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13b00736-1430-4592-9c35-1e67a927715f</dc:identifier>
+        <dc:title>RGB Guided ToF Imaging System: A Survey of Deep Learning-Based Methods</dc:title>
+        <dc:creator opf:file-as="Qiao, Xin &amp; Poggi, Matteo &amp; Deng, Pengchao &amp; Wei, Hao &amp; Ge, Chenyang &amp; Mattoccia, Stefano" opf:role="aut">Xin Qiao</dc:creator>
+        <dc:creator opf:file-as="Qiao, Xin &amp; Poggi, Matteo &amp; Deng, Pengchao &amp; Wei, Hao &amp; Ge, Chenyang &amp; Mattoccia, Stefano" opf:role="aut">Matteo Poggi</dc:creator>
+        <dc:creator opf:file-as="Qiao, Xin &amp; Poggi, Matteo &amp; Deng, Pengchao &amp; Wei, Hao &amp; Ge, Chenyang &amp; Mattoccia, Stefano" opf:role="aut">Pengchao Deng</dc:creator>
+        <dc:creator opf:file-as="Qiao, Xin &amp; Poggi, Matteo &amp; Deng, Pengchao &amp; Wei, Hao &amp; Ge, Chenyang &amp; Mattoccia, Stefano" opf:role="aut">Hao Wei</dc:creator>
+        <dc:creator opf:file-as="Qiao, Xin &amp; Poggi, Matteo &amp; Deng, Pengchao &amp; Wei, Hao &amp; Ge, Chenyang &amp; Mattoccia, Stefano" opf:role="aut">Chenyang Ge</dc:creator>
+        <dc:creator opf:file-as="Qiao, Xin &amp; Poggi, Matteo &amp; Deng, Pengchao &amp; Wei, Hao &amp; Ge, Chenyang &amp; Mattoccia, Stefano" opf:role="aut">Stefano Mattoccia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-29T11:45:55+00:00</dc:date>
+        <dc:description>International Journal of Computer Vision, https://doi.org/10.1007/s11263-024-02089-5</dc:description>
+        <dc:publisher>Springer US</dc:publisher>
+        <dc:identifier opf:scheme="DOI">10.1007/s11263-024-02089-5</dc:identifier>
+        <dc:identifier opf:scheme="URL">https://doi.org/10.1007/s11263-024-02089-5</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>RGB-guided ToF imaging</dc:subject>
+        <dc:subject>Deep learning</dc:subject>
+        <dc:subject>Depth super-resolution</dc:subject>
+        <dc:subject>Depth completion</dc:subject>
+        <dc:subject>multimodal fusion</dc:subject>
+        <meta content="{&quot;Stefano Mattoccia&quot;: &quot;&quot;, &quot;Chenyang Ge&quot;: &quot;&quot;, &quot;Pengchao Deng&quot;: &quot;&quot;, &quot;Matteo Poggi&quot;: &quot;&quot;, &quot;Xin Qiao&quot;: &quot;&quot;, &quot;Hao Wei&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2025-11-30T21:09:08.584434+00:00" name="calibre:timestamp"/>
+        <meta content="RGB Guided ToF Imaging System: A Survey of Deep Learning-Based Methods" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="RGB Guided ToF Imaging System_ A Survey of Deep Deng &amp; Hao Wei &amp; Chenyang Ge &amp; Stefano Mattoccia.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

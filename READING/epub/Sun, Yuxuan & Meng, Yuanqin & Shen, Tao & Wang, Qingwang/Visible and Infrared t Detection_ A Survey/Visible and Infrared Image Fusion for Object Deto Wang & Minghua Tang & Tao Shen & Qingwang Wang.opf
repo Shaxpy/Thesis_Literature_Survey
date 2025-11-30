@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">65</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9cf023e9-1b3d-4f96-a0d4-2e29a2c14cd1</dc:identifier>
+        <dc:title>Visible and Infrared Image Fusion for Object Detection: A Survey</dc:title>
+        <dc:creator opf:file-as="Sun, Yuxuan &amp; Meng, Yuanqin &amp; Wang, Qingbo &amp; Tang, Minghua &amp; Shen, Tao &amp; Wang, Qingwang" opf:role="aut">Yuxuan Sun</dc:creator>
+        <dc:creator opf:file-as="Sun, Yuxuan &amp; Meng, Yuanqin &amp; Wang, Qingbo &amp; Tang, Minghua &amp; Shen, Tao &amp; Wang, Qingwang" opf:role="aut">Yuanqin Meng</dc:creator>
+        <dc:creator opf:file-as="Sun, Yuxuan &amp; Meng, Yuanqin &amp; Wang, Qingbo &amp; Tang, Minghua &amp; Shen, Tao &amp; Wang, Qingwang" opf:role="aut">Qingbo Wang</dc:creator>
+        <dc:creator opf:file-as="Sun, Yuxuan &amp; Meng, Yuanqin &amp; Wang, Qingbo &amp; Tang, Minghua &amp; Shen, Tao &amp; Wang, Qingwang" opf:role="aut">Minghua Tang</dc:creator>
+        <dc:creator opf:file-as="Sun, Yuxuan &amp; Meng, Yuanqin &amp; Wang, Qingbo &amp; Tang, Minghua &amp; Shen, Tao &amp; Wang, Qingwang" opf:role="aut">Tao Shen</dc:creator>
+        <dc:creator opf:file-as="Sun, Yuxuan &amp; Meng, Yuanqin &amp; Wang, Qingbo &amp; Tang, Minghua &amp; Shen, Tao &amp; Wang, Qingwang" opf:role="aut">Qingwang Wang</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-02-16T08:37:13+00:00</dc:date>
+        <dc:description>Proceedings of International Conference on Image, Vision and Intelligent Systems 2023 (ICIVIS 2023), doi:10.1007/978-981-97-0855-0_24</dc:description>
+        <dc:publisher>Springer Nature Singapore</dc:publisher>
+        <dc:identifier opf:scheme="DOI">10.1007/978-981-97-0855-0_24</dc:identifier>
+        <dc:identifier opf:scheme="URL">http://dx.doi.org/10.1007/978-981-97-0855-0_24</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>object detection</dc:subject>
+        <dc:subject>multimodal fusion</dc:subject>
+        <dc:subject>RGB-Infrared image</dc:subject>
+        <dc:subject>Deep learning</dc:subject>
+        <dc:subject>cross modal</dc:subject>
+        <meta content="{&quot;Tao Shen&quot;: &quot;&quot;, &quot;Yuxuan Sun&quot;: &quot;&quot;, &quot;Qingwang Wang&quot;: &quot;&quot;, &quot;Yuanqin Meng&quot;: &quot;&quot;, &quot;Minghua Tang&quot;: &quot;&quot;, &quot;Qingbo Wang&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2025-11-30T21:09:07.457988+00:00" name="calibre:timestamp"/>
+        <meta content="Visible and Infrared Image Fusion for Object Detection: A Survey" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Visible and Infrared Image Fusion for Object Deto Wang &amp; Minghua Tang &amp; Tao Shen &amp; Qingwang Wang.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

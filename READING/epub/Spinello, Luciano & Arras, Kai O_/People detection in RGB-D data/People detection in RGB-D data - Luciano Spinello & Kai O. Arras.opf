@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">80</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">896fa5c7-6487-4715-8d88-6ac06e95cfde</dc:identifier>
+        <dc:title>People detection in RGB-D data</dc:title>
+        <dc:creator opf:file-as="Spinello, Luciano &amp; Arras, Kai O." opf:role="aut">Luciano Spinello</dc:creator>
+        <dc:creator opf:file-as="Spinello, Luciano &amp; Arras, Kai O." opf:role="aut">Kai O. Arras</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>IEEE</dc:publisher>
+        <dc:identifier opf:scheme="DOI">10.1109/IROS.2011.6095074</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>2011 IEEE/RSJ International Conference on Intelligent Robots and Systems;2011; ; ;10.1109/IROS.2011.6095074</dc:subject>
+        <meta content="{&quot;Luciano Spinello&quot;: &quot;&quot;, &quot;Kai O. Arras&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2025-11-30T21:13:31.377605+00:00" name="calibre:timestamp"/>
+        <meta content="People detection in RGB-D data" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="People detection in RGB-D data - Luciano Spinello &amp; Kai O. Arras.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

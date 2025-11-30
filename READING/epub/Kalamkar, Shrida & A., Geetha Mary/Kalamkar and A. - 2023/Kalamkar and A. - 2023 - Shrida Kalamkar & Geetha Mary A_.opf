@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">64</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ce66f3a1-3849-477d-94ad-8e2d25d30130</dc:identifier>
+        <dc:title>Kalamkar and A. - 2023</dc:title>
+        <dc:creator opf:file-as="Kalamkar, Shrida &amp; A., Geetha Mary" opf:role="aut">Shrida Kalamkar</dc:creator>
+        <dc:creator opf:file-as="Kalamkar, Shrida &amp; A., Geetha Mary" opf:role="aut">Geetha Mary A.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="DOI">10.1016/j.dajour.2023.100327</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Multimodal data</dc:subject>
+        <dc:subject>Image fusion</dc:subject>
+        <dc:subject>Deep learning</dc:subject>
+        <dc:subject>Transformers</dc:subject>
+        <dc:subject>Wavelet transforms</dc:subject>
+        <meta content="{&quot;Shrida Kalamkar&quot;: &quot;&quot;, &quot;Geetha Mary A.&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2025-11-30T21:09:07.340504+00:00" name="calibre:timestamp"/>
+        <meta content="Kalamkar and A. - 2023" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Kalamkar and A. - 2023 - Shrida Kalamkar &amp; Geetha Mary A_.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">69</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">09dbf499-8781-4b4d-8c72-a45d325b6095</dc:identifier>
+        <dc:title>A Novel Fusion Method With Thermal and RGB-D Sensor Data for Human Detection</dc:title>
+        <dc:creator opf:file-as="Ozcan, Ahmet &amp; Cetin, Omer" opf:role="aut">Ahmet Ozcan</dc:creator>
+        <dc:creator opf:file-as="Ozcan, Ahmet &amp; Cetin, Omer" opf:role="aut">Omer Cetin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>IEEE Access;2022;10; ;10.1109/ACCESS.2022.3185402</dc:description>
+        <dc:publisher>IEEE</dc:publisher>
+        <dc:identifier opf:scheme="DOI">10.1109/ACCESS.2022.3185402</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Data fusion</dc:subject>
+        <dc:subject>human detection</dc:subject>
+        <dc:subject>image processing</dc:subject>
+        <meta content="{&quot;Ahmet Ozcan&quot;: &quot;&quot;, &quot;Omer Cetin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2025-11-30T21:09:08.084641+00:00" name="calibre:timestamp"/>
+        <meta content="Novel Fusion Method With Thermal and RGB-D Sensor Data for Human Detection, A" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Novel Fusion Method With Thermal and RGB-D Sensorfor Human Detection, A - Ahmet Ozcan &amp; Omer Cetin.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">83</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec2f43a0-33c1-494b-b3c0-bd3a6f8cc54a</dc:identifier>
+        <dc:title>Real-time RGB-D based people detection and tracking for mobile robots and head-worn cameras</dc:title>
+        <dc:creator opf:file-as="Jafari, Omid Hosseini &amp; Mitzel, Dennis &amp; Leibe, Bastian" opf:role="aut">Omid Hosseini Jafari</dc:creator>
+        <dc:creator opf:file-as="Jafari, Omid Hosseini &amp; Mitzel, Dennis &amp; Leibe, Bastian" opf:role="aut">Dennis Mitzel</dc:creator>
+        <dc:creator opf:file-as="Jafari, Omid Hosseini &amp; Mitzel, Dennis &amp; Leibe, Bastian" opf:role="aut">Bastian Leibe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>IEEE</dc:publisher>
+        <dc:identifier opf:scheme="DOI">10.1109/ICRA.2014.6907688</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>2014 IEEE International Conference on Robotics and Automation (ICRA);2014; ; ;10.1109/ICRA.2014.6907688</dc:subject>
+        <meta content="{&quot;Bastian Leibe&quot;: &quot;&quot;, &quot;Dennis Mitzel&quot;: &quot;&quot;, &quot;Omid Hosseini Jafari&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2025-11-30T21:13:31.683652+00:00" name="calibre:timestamp"/>
+        <meta content="Real-time RGB-D based people detection and tracking for mobile robots and head-worn cameras" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Real-time RGB-D based people detection and trackid Hosseini Jafari &amp; Dennis Mitzel &amp; Bastian Leibe.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

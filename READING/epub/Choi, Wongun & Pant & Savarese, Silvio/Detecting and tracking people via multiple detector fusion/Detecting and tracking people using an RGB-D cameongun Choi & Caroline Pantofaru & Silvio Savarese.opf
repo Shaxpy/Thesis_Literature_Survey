@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">68</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">57bdd4e3-bfce-4a7c-96ea-2281c21cb046</dc:identifier>
+        <dc:title>Detecting and tracking people using an RGB-D camera via multiple detector fusion</dc:title>
+        <dc:creator opf:file-as="Choi, Wongun &amp; Pantofaru, Caroline &amp; Savarese, Silvio" opf:role="aut">Wongun Choi</dc:creator>
+        <dc:creator opf:file-as="Choi, Wongun &amp; Pantofaru, Caroline &amp; Savarese, Silvio" opf:role="aut">Caroline Pantofaru</dc:creator>
+        <dc:creator opf:file-as="Choi, Wongun &amp; Pantofaru, Caroline &amp; Savarese, Silvio" opf:role="aut">Silvio Savarese</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>IEEE</dc:publisher>
+        <dc:identifier opf:scheme="DOI">10.1109/ICCVW.2011.6130370</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>2011 IEEE International Conference on Computer Vision Workshops (ICCV Workshops);2011; ; ;10.1109/ICCVW.2011.6130370</dc:subject>
+        <meta content="{&quot;Caroline Pantofaru&quot;: &quot;&quot;, &quot;Wongun Choi&quot;: &quot;&quot;, &quot;Silvio Savarese&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2025-11-30T21:09:07.963962+00:00" name="calibre:timestamp"/>
+        <meta content="Detecting and tracking people using an RGB-D camera via multiple detector fusion" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Detecting and tracking people using an RGB-D cameongun Choi &amp; Caroline Pantofaru &amp; Silvio Savarese.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

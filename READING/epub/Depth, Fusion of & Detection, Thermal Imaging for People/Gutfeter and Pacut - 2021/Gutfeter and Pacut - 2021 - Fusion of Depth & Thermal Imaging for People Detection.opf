@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">67</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">774503cf-5e40-4708-8dd5-1915d5a8635f</dc:identifier>
+        <dc:title>Gutfeter and Pacut - 2021</dc:title>
+        <dc:creator opf:file-as="Depth, Fusion of &amp; Detection, Thermal Imaging for People" opf:role="aut">Fusion of Depth</dc:creator>
+        <dc:creator opf:file-as="Depth, Fusion of &amp; Detection, Thermal Imaging for People" opf:role="aut">Thermal Imaging for People Detection</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-13T06:42:17+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Fusion of Depth&quot;: &quot;&quot;, &quot;Thermal Imaging for People Detection&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2025-11-30T21:09:07.857334+00:00" name="calibre:timestamp"/>
+        <meta content="Gutfeter and Pacut - 2021" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Gutfeter and Pacut - 2021 - Fusion of Depth &amp; Thermal Imaging for People Detection.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

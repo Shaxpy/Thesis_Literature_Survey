@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">76</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0e6a4d8d-4a2b-410a-bea0-b70c4a2012b2</dc:identifier>
+        <dc:title>Late better than early: A decision-level information fusion approach for RGB-Thermal crowd counting with illumination awareness</dc:title>
+        <dc:creator opf:file-as="Cheng, Jian" opf:role="aut">Jian Cheng</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-06-10T13:09:46+00:00</dc:date>
+        <dc:description>Neurocomputing, 594 (2024) 127888. doi:10.1016/j.neucom.2024.127888</dc:description>
+        <dc:publisher>Elsevier B.V.</dc:publisher>
+        <dc:identifier opf:scheme="DOI">10.1016/j.neucom.2024.127888</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Neurocomputing</dc:subject>
+        <dc:subject>594 (2024) 127888. doi:10.1016/j.neucom.2024.127888</dc:subject>
+        <dc:subject>Crowd counting</dc:subject>
+        <dc:subject>RGB-T image</dc:subject>
+        <dc:subject>Decision-level fusion</dc:subject>
+        <meta content="{&quot;Jian Cheng&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2025-11-30T21:09:08.804632+00:00" name="calibre:timestamp"/>
+        <meta content="Late better than early: A decision-level information fusion approach for RGB-Thermal crowd counting with illumination awareness" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Late better than early_ A decision-level informatcounting with illumination awareness - Jian Cheng.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

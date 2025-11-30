@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">66</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5bc6f3d1-29f3-4cbe-8510-03e4a8ce50c9</dc:identifier>
+        <dc:title>Computer Vision – ECCV 2024</dc:title>
+        <dc:creator opf:file-as="Leonardis, Aleš &amp; Ricci, Elisa &amp; Roth, Stefan &amp; Russakovsky, Olga &amp; Sattler, Torsten &amp; Varol, Gül &amp; Goos, Gerhard &amp; Hartmanis, Juris &amp; Bertino, Elisa &amp; Gao, Wen &amp; Steffen, Bernhard &amp; Yung, Moti" opf:role="aut">Aleš Leonardis</dc:creator>
+        <dc:creator opf:file-as="Leonardis, Aleš &amp; Ricci, Elisa &amp; Roth, Stefan &amp; Russakovsky, Olga &amp; Sattler, Torsten &amp; Varol, Gül &amp; Goos, Gerhard &amp; Hartmanis, Juris &amp; Bertino, Elisa &amp; Gao, Wen &amp; Steffen, Bernhard &amp; Yung, Moti" opf:role="aut">Elisa Ricci</dc:creator>
+        <dc:creator opf:file-as="Leonardis, Aleš &amp; Ricci, Elisa &amp; Roth, Stefan &amp; Russakovsky, Olga &amp; Sattler, Torsten &amp; Varol, Gül &amp; Goos, Gerhard &amp; Hartmanis, Juris &amp; Bertino, Elisa &amp; Gao, Wen &amp; Steffen, Bernhard &amp; Yung, Moti" opf:role="aut">Stefan Roth</dc:creator>
+        <dc:creator opf:file-as="Leonardis, Aleš &amp; Ricci, Elisa &amp; Roth, Stefan &amp; Russakovsky, Olga &amp; Sattler, Torsten &amp; Varol, Gül &amp; Goos, Gerhard &amp; Hartmanis, Juris &amp; Bertino, Elisa &amp; Gao, Wen &amp; Steffen, Bernhard &amp; Yung, Moti" opf:role="aut">Olga Russakovsky</dc:creator>
+        <dc:creator opf:file-as="Leonardis, Aleš &amp; Ricci, Elisa &amp; Roth, Stefan &amp; Russakovsky, Olga &amp; Sattler, Torsten &amp; Varol, Gül &amp; Goos, Gerhard &amp; Hartmanis, Juris &amp; Bertino, Elisa &amp; Gao, Wen &amp; Steffen, Bernhard &amp; Yung, Moti" opf:role="aut">Torsten Sattler</dc:creator>
+        <dc:creator opf:file-as="Leonardis, Aleš &amp; Ricci, Elisa &amp; Roth, Stefan &amp; Russakovsky, Olga &amp; Sattler, Torsten &amp; Varol, Gül &amp; Goos, Gerhard &amp; Hartmanis, Juris &amp; Bertino, Elisa &amp; Gao, Wen &amp; Steffen, Bernhard &amp; Yung, Moti" opf:role="aut">Gül Varol</dc:creator>
+        <dc:creator opf:file-as="Leonardis, Aleš &amp; Ricci, Elisa &amp; Roth, Stefan &amp; Russakovsky, Olga &amp; Sattler, Torsten &amp; Varol, Gül &amp; Goos, Gerhard &amp; Hartmanis, Juris &amp; Bertino, Elisa &amp; Gao, Wen &amp; Steffen, Bernhard &amp; Yung, Moti" opf:role="aut">Gerhard Goos</dc:creator>
+        <dc:creator opf:file-as="Leonardis, Aleš &amp; Ricci, Elisa &amp; Roth, Stefan &amp; Russakovsky, Olga &amp; Sattler, Torsten &amp; Varol, Gül &amp; Goos, Gerhard &amp; Hartmanis, Juris &amp; Bertino, Elisa &amp; Gao, Wen &amp; Steffen, Bernhard &amp; Yung, Moti" opf:role="aut">Juris Hartmanis</dc:creator>
+        <dc:creator opf:file-as="Leonardis, Aleš &amp; Ricci, Elisa &amp; Roth, Stefan &amp; Russakovsky, Olga &amp; Sattler, Torsten &amp; Varol, Gül &amp; Goos, Gerhard &amp; Hartmanis, Juris &amp; Bertino, Elisa &amp; Gao, Wen &amp; Steffen, Bernhard &amp; Yung, Moti" opf:role="aut">Elisa Bertino</dc:creator>
+        <dc:creator opf:file-as="Leonardis, Aleš &amp; Ricci, Elisa &amp; Roth, Stefan &amp; Russakovsky, Olga &amp; Sattler, Torsten &amp; Varol, Gül &amp; Goos, Gerhard &amp; Hartmanis, Juris &amp; Bertino, Elisa &amp; Gao, Wen &amp; Steffen, Bernhard &amp; Yung, Moti" opf:role="aut">Wen Gao</dc:creator>
+        <dc:creator opf:file-as="Leonardis, Aleš &amp; Ricci, Elisa &amp; Roth, Stefan &amp; Russakovsky, Olga &amp; Sattler, Torsten &amp; Varol, Gül &amp; Goos, Gerhard &amp; Hartmanis, Juris &amp; Bertino, Elisa &amp; Gao, Wen &amp; Steffen, Bernhard &amp; Yung, Moti" opf:role="aut">Bernhard Steffen</dc:creator>
+        <dc:creator opf:file-as="Leonardis, Aleš &amp; Ricci, Elisa &amp; Roth, Stefan &amp; Russakovsky, Olga &amp; Sattler, Torsten &amp; Varol, Gül &amp; Goos, Gerhard &amp; Hartmanis, Juris &amp; Bertino, Elisa &amp; Gao, Wen &amp; Steffen, Bernhard &amp; Yung, Moti" opf:role="aut">Moti Yung</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-11-21T12:39:27+00:00</dc:date>
+        <dc:identifier opf:scheme="DOI">10.1007/978-3-031-73030-6</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Bernhard Steffen&quot;: &quot;&quot;, &quot;Aleš Leonardis&quot;: &quot;&quot;, &quot;Elisa Ricci&quot;: &quot;&quot;, &quot;Gül Varol&quot;: &quot;&quot;, &quot;Gerhard Goos&quot;: &quot;&quot;, &quot;Wen Gao&quot;: &quot;&quot;, &quot;Stefan Roth&quot;: &quot;&quot;, &quot;Olga Russakovsky&quot;: &quot;&quot;, &quot;Torsten Sattler&quot;: &quot;&quot;, &quot;Elisa Bertino&quot;: &quot;&quot;, &quot;Moti Yung&quot;: &quot;&quot;, &quot;Juris Hartmanis&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2025-11-30T21:09:07.588860+00:00" name="calibre:timestamp"/>
+        <meta content="Computer Vision – ECCV 2024" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Computer Vision - ECCV 2024 - Ales Leonardis &amp; EBertino &amp; Wen Gao &amp; Bernhard Steffen &amp; Moti Yung.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
